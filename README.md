@@ -1,2 +1,2 @@
-# aab
-Algorithms for Animal Breeding
+# Introduction
+This is a collection of Algorithms for Animal Breeding and genetics
